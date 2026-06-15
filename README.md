@@ -86,10 +86,4 @@ Path Clear -> Motor ON
 * Add buzzer and LED indicators.
 * Implement autonomous robot navigation.
 
-## Author
 
-Dhruv
-
-Industrial Internship Project
-
-2026
